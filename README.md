@@ -1,7 +1,7 @@
 # VBA_Stock-Portfolio-Manager
 This VBA application allows user to retrive real-time financial information of stocks in US Market. Users can also simulate to perform Buy and Sell action and monitor the performance of portfolios. 
 
-Some key codes are provided under foloder "key codes"
+Some key codes are provided under folder ["key Codes"]("https://github.com/LURONGMAO/VBA_Stock-Portfolio-Manager/tree/master/Key%20Codes")
 
 ## Authors
 This application is built by Bernhard Pfann and Lurong Mao  
