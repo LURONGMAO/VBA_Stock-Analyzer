@@ -33,6 +33,9 @@ Calandar Form is from [Excel880.com](http://excel880.com/blog/archives/12375)
 Everytime after you perform a trading action, the trasaction will be recorded in "Log" page where you can have the overview of your cash flow 
 <div align=center><img width="900" height="600" src="./Views/Log_Page.jpg"/></div>    
 
++ Click "Clear Records" to clear all your transaction history  
+_NOTED: This action will PERMANANTLY delete all your transaction records and recover your application to in the initial status!
+
 #### PortfolioOverall Page  
 
 You can have an overview of your portfolio at this page which will list the stock value, cash value, total value, cash ratio and invest ration for every market trading days from your first trading dates till the last trading dates.  
