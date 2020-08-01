@@ -34,7 +34,7 @@ Everytime after you perform a trading action, the trasaction will be recorded in
 <div align=center><img width="900" height="600" src="./Views/Log_Page.jpg"/></div>    
 
 + Click "Clear Records" to clear all your transaction history  
-_NOTED: This action will PERMANANTLY delete all your transaction records and recover your application to in the initial status!
+_NOTED: This action will PERMANANTLY delete all your transaction records and recover your application to in the initial status!_
 
 #### PortfolioOverall Page  
 
